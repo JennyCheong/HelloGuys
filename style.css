@@ -1,0 +1,23 @@
+/* *{
+  border:solid 1px black;
+}
+ */
+.card{
+  width:800px;
+  display:flex;
+   border:solid 5px black;
+}
+.left{
+  width:30%;
+  background-image: url(https://assets.bonappetit.com/photos/5c366551f212512d0e6cefd0/16:9/w_2992,h_1683,c_limit/Basically-Coffee-0219-03.jpg);
+  background-size: cover;
+}
+.right{
+  width:70%;
+}
+
+ul li {
+  width:30%;
+  display:inline-block;
+  vertical-align: top;
+}
